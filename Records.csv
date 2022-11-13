@@ -1,0 +1,21 @@
+year,win percentage,wins,losses,SEC Win?,Natty?
+2003,0.93,13,1,True,True
+2004,0.75,9,3,False,False
+2005,0.85,11,2,False,False
+2006,0.85,11,2,False,False
+2007,0.86,12,2,True,True
+2008,0.64,9,5,False,False
+2009,0.69,9,4,False,False
+2010,0.85,11,2,False,False
+2011,0.93,13,1,False,False
+2012,0.77,10,3,False,False
+2013,0.77,10,3,False,False
+2014,0.62,8,5,False,False
+2015,0.75,9,3,False,False
+2016,0.67,8,4,False,False
+2017,0.69,9,4,False,False
+2018,0.77,10,3,False,False
+2019,1.0,15,0,True,True
+2020,0.5,5,5,False,False
+2021,0.46,6,7,False,False
+2022,0.8,8,2,False,False
