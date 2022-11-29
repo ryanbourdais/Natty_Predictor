@@ -40,8 +40,8 @@ def main():
     #using KNN model
     knn(team_df, axis)
 
-    mng = plt.get_current_fig_manager()
-    mng.full_screen_toggle()
+    # mng = plt.get_current_fig_manager()
+    # mng.full_screen_toggle()
 
     plt.show()
 
